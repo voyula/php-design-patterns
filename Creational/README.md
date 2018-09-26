@@ -1,3 +1,3 @@
 # Creational
 
-* [Singleton](Singleton) (Anti-pattern. Look at Dependency Injection)
+* [Singleton](Singleton) (Anti-pattern. Look to Dependency Injection)
