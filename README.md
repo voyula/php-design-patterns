@@ -1,9 +1,9 @@
 # 🍉php-design-patterns
 
 ## Creational (GOF)
-| Pattern |
-| --- |
-| [Singleton](Creational/Singleton) |
+| Pattern | Status
+| --- | --- |
+| [Singleton](Creational/Singleton) | Anti-pattern
 
 ## Other
 | Pattern |
