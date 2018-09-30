@@ -10,6 +10,22 @@
 | --- |
 | [MethodChaining](Other/MethodChaining) |
 
+## ⚡ Installation
+
+Via [Composer](https://getcomposer.org/)
+
+```bash
+$ composer require voyula/php-design-patterns
+```
+
+## 🔬 Testing
+
+Via [PHPUnit](https://phpunit.de/)
+
+```bash
+$ composer test
+```
+
 ### 📜 Standards
 
 - [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
