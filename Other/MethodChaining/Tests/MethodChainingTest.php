@@ -11,6 +11,7 @@ class MethodChainingTest extends TestCase
      * @var \DesignPatterns\Other\MethodChaining\MethodChaining
      */
     private methodChaining;
+
     /**
      * @return void
      */
@@ -18,6 +19,7 @@ class MethodChainingTest extends TestCase
     {
         $this->methodChaining = new MethodChaining;
     }
+
     /**
      * @return void
      */
