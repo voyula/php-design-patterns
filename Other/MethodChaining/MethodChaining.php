@@ -6,31 +6,31 @@ class MethodChaining
 {
     public $hello;
 
-    public function method1()
+    public function methodOne()
     {
         $hello .= 'H';
         return $this;
     }
 
-    public function method2()
+    public function methodTwo()
     {
         $hello .= 'e';
         return $this;
     }
 
-    public function method3()
+    public function methodThree()
     {
         $hello .= 'l';
         return $this;
     }
 
-    public function method4()
+    public function methodFour()
     {
         $hello .= 'l';
         return $this;
     }
 
-    public function method5()
+    public function methodFive()
     {
         $hello .= 'o';
         return $this;
