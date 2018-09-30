@@ -1,5 +1,7 @@
 <?php
 
+namespace DesignPatterns\Other\MethodChaining;
+
 class MethodChaining
 {
     public $hello;
