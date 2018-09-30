@@ -2,4 +2,4 @@
 
 | Pattern |
 | --- |
-| [MethodChaining](Other/MethodChaining) |
+| [MethodChaining](MethodChaining) |
