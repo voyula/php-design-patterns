@@ -1,11 +1,11 @@
 # 🍉php-design-patterns
 
-### Creational (GOF)
+## Creational (GOF)
 | Pattern |
 | --- |
 | [Singleton](Creational/Singleton) |
 
-### Other
+## Other
 | Pattern |
 | --- |
 | [MethodChaining](Other/MethodChaining) |
