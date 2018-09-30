@@ -2,4 +2,4 @@
 
 | Pattern |
 | --- |
-| [Singleton](Creational/Singleton) |
+| [Singleton](Singleton) |
