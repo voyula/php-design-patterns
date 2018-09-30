@@ -1,3 +1,5 @@
-# Creational
+# Creational (GOF)
 
-* [Singleton](Singleton) (is an ⚠ Anti-pattern. Look to 💉Dependency Injection.)
+| Pattern |
+| --- |
+| [Singleton](Creational/Singleton) |
