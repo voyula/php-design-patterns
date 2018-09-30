@@ -1,6 +1,6 @@
 # 🍉php-design-patterns
 
-### Creational
+### Creational (GOF)
 | Pattern |
 | --- |
 | [Singleton](Creational/Singleton) |
