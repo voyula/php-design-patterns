@@ -6,13 +6,22 @@ use DateTime;
 
 class DependencyInjection
 {
+    /**
+    * @var \DateTime
+    */
     private $dependency;
 
+    /**
+    * @return void
+    */
     public function __construct(DateTime $dependency): void
     {
         $this->dependency = $dependency;
     }
 
+    /**
+    * @return string
+    */
     public function getTimezoneName(): string
     {
         return $this->dependency->getTimezone()->getName();
