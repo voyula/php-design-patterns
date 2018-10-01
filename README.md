@@ -8,6 +8,7 @@
 ## Other
 | Pattern |
 | --- |
+| [DependencyInjection](Other/DependencyInjection) |
 | [MethodChaining](Other/MethodChaining) |
 
 ## ⚡ Installation
