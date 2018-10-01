@@ -4,6 +4,8 @@ namespace DesignPatterns\Other\DependencyInjection\Tests;
 
 use PHPUnit\Framework\TestCase;
 use DesignPatterns\Other\DependencyInjection\DependencyInjection;
+use DateTime;
+use DateTimeZone;
 
 class DependencyInjectionTest extends TestCase
 {
