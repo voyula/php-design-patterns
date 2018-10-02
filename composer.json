@@ -1,8 +1,8 @@
 {
     "name": "voyula/php-design-patterns",
-    "description": "PHP library for data format validation.",
+    "description": "PHP Design Patterns",
     "keywords": [
-        "validator"
+        "design-patterns"
     ],
     "homepage": "https://github.com/voyula/php-design-patterns",
     "type": "project",
