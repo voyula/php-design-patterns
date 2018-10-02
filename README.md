@@ -57,7 +57,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 Licensed under the MIT License. See [License File](LICENSE.md) for more information.
 
 [ico-travis]: https://img.shields.io/travis/voyula/php-design-patterns/master.svg?longCache=true&style=flat-square
-[ico-styleci]: https://github.styleci.io/repos/142753977/shield?branch=master
+[ico-styleci]: https://github.styleci.io/repos/150496340/shield?branch=master
 [ico-coverage]: https://img.shields.io/scrutinizer/coverage/g/voyula/validate.svg?longCache=true&style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/g/voyula/validate.svg?longCache=true&style=flat-square
 
