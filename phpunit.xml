@@ -3,7 +3,8 @@
          colors="true">
     <testsuites>
         <testsuite name="Unit">
-            <directory suffix="Test.php">./**/**/Tests/</directory>
+            <directory suffix="Test.php">./Creational/**/Tests/</directory>
+            <directory suffix="Test.php">./Other/**/Tests/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
