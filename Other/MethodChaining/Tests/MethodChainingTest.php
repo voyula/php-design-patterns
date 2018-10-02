@@ -26,6 +26,6 @@ class MethodChainingTest extends TestCase
     public function testHello(): void
     {
         $this->methodChaining->methodOne()->methodTwo()->methodThree()->methodFour()->methodFive();
-        $this->assertEquals('Hello', $this->methodChaining->$hello);
+        $this->assertEquals('Hello', $this->methodChaining->hello);
     }
 }
