@@ -2,4 +2,5 @@
 <ruleset>
     <arg value="spn" />
     <rule ref="PSR2" />
+    <file>./</file>
 </ruleset>
