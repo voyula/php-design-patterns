@@ -23,12 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Voyula\\Validate\\": ""
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Voyula\\Validate\\Tests\\": "tests/"
+            "DesignPatterns\\": ""
         }
     },
     "scripts": {
