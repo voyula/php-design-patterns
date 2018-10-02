@@ -10,7 +10,7 @@ class MethodChainingTest extends TestCase
     /**
      * @var \DesignPatterns\Other\MethodChaining\MethodChaining
      */
-    private methodChaining;
+    private $methodChaining;
 
     /**
      * @return void
