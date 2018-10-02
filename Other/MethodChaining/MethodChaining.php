@@ -8,31 +8,31 @@ class MethodChaining
 
     public function methodOne()
     {
-        $hello .= 'H';
+        $this->hello .= 'H';
         return $this;
     }
 
     public function methodTwo()
     {
-        $hello .= 'e';
+        $this->hello .= 'e';
         return $this;
     }
 
     public function methodThree()
     {
-        $hello .= 'l';
+        $this->hello .= 'l';
         return $this;
     }
 
     public function methodFour()
     {
-        $hello .= 'l';
+        $this->hello .= 'l';
         return $this;
     }
 
     public function methodFive()
     {
-        $hello .= 'o';
+        $this->hello .= 'o';
         return $this;
     }
 }
