@@ -2,5 +2,6 @@
 <ruleset>
     <arg value="spn" />
     <rule ref="PSR2" />
-    <file>./</file>
+    <file>Creational/</file>
+    <file>Other/</file>
 </ruleset>
