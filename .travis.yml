@@ -1,0 +1,19 @@
+sudo: false
+language: php
+php:
+  - 7.2
+cache:
+  directories:
+    - $HOME/.composer/cache
+before_install:
+  - travis_retry composer self-update
+install:
+  - travis_retry composer install --no-interaction --prefer-dist
+jobs:
+  include:
+    - stage: test
+      env: UNIT_TEST
+      script: vendor/bin/phpunit
+    - stage: code quality
+      env: CODING_STANDARDS
+      script: vendor/bin/phpcs
