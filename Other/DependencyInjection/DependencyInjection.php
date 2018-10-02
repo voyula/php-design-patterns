@@ -14,7 +14,7 @@ class DependencyInjection
     /**
     * @return void
     */
-    public function __construct(DateTime $dependency): void
+    public function __construct(DateTime $dependency)
     {
         $this->dependency = $dependency;
     }
