@@ -12,7 +12,7 @@ class DependencyInjectionTest extends TestCase
     /**
      * @var \DesignPatterns\Other\DependencyInjection\DependencyInjection
      */
-    private dependencyInjection;
+    private $dependencyInjection;
 
     /**
      * @return void
