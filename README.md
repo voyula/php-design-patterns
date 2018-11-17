@@ -9,7 +9,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![License][ico-license]][link-license]
 
-## Creational (GOF)
+## Creational (GoF)
 | Pattern | Status
 | --- | --- |
 | [Singleton](Creational/Singleton) | Anti-pattern
