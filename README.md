@@ -14,6 +14,11 @@
 | --- | --- |
 | [Singleton](Creational/Singleton) | Anti-pattern
 
+## Behavioral (GoF)
+| Pattern | Status
+| --- | --- |
+| [Observer](Behavioral/Observer) | -
+
 ## Architectural
 | Pattern | Status
 | --- | --- |
