@@ -77,7 +77,7 @@ Licensed under the MIT License. See [License File](LICENSE.md) for more informat
 
 
 [link-travis]: https://travis-ci.org/voyula/php-design-patterns
-[link-styleci]: https://github.styleci.io/repos/142753977
+[link-styleci]: https://github.styleci.io/repos/150496340
 [link-coverage]: https://scrutinizer-ci.com/g/voyula/validate
 [link-scrutinizer]: https://scrutinizer-ci.com/g/voyula/validate
 
