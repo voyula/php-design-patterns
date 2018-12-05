@@ -3,10 +3,8 @@
 namespace DesignPatterns\Behavioral\Observer\Tests;
 
 use PHPUnit\Framework\TestCase;
-use DesignPatterns\Behavioral\Observer\{
-    Observer,
-    Observable
-};
+use DesignPatterns\Behavioral\Observer\Observer;
+use DesignPatterns\Behavioral\Observer\Observable;
 
 class ObserverTest extends TestCase
 {
