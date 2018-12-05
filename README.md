@@ -18,6 +18,7 @@
 | Pattern | Status
 | --- | --- |
 | [Observer](Behavioral/Observer) | -
+| [Strategy](Behavioral/Strategy) | -
 
 ## Architectural
 | Pattern | Status

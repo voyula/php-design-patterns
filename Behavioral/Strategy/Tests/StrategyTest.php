@@ -1,0 +1,42 @@
+<?php
+
+namespace DesignPatterns\Behavioral\Strategy\Tests;
+
+use PHPUnit\Framework\TestCase;
+use DesignPatterns\Behavioral\Strategy\Context;
+use DesignPatterns\Behavioral\Strategy\Cat;
+use DesignPatterns\Behavioral\Strategy\Human;
+use DesignPatterns\Behavioral\Strategy\Dog;
+
+class StrategyTest extends TestCase
+{
+    /**
+     * @return void
+     */
+    public function testCatStrategy(): void
+    {
+        $strategy = new Context(new Cat);
+
+        $this->assertSame('Said: I am a cat.', $strategy->getMessage());
+    }
+
+    /**
+     * @return void
+     */
+    public function testHumanStrategy(): void
+    {
+        $strategy = new Context(new Human);
+
+        $this->assertSame('Said: I am a human.', $strategy->getMessage());
+    }
+
+    /**
+     * @return void
+     */
+    public function testDogStrategy(): void
+    {
+        $strategy = new Context(new Dog);
+
+        $this->assertSame('Said: I am a dog.', $strategy->getMessage());
+    }
+}
