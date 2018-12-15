@@ -69,8 +69,8 @@ Licensed under the MIT License. See [License File](LICENSE.md) for more informat
 
 [ico-travis]: https://img.shields.io/travis/voyula/php-design-patterns/master.svg?longCache=true&style=flat-square
 [ico-styleci]: https://github.styleci.io/repos/150496340/shield?branch=master
-[ico-coverage]: https://img.shields.io/scrutinizer/coverage/g/voyula/validate.svg?longCache=true&style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/g/voyula/validate.svg?longCache=true&style=flat-square
+[ico-coverage]: https://img.shields.io/scrutinizer/coverage/g/voyula/php-design-patterns.svg?longCache=true&style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/g/voyula/php-design-patterns.svg?longCache=true&style=flat-square
 
 [ico-version]: https://img.shields.io/packagist/v/voyula/validate.svg?longCache=true&style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/voyula/validate.svg?longCache=true&style=flat-square
@@ -79,8 +79,8 @@ Licensed under the MIT License. See [License File](LICENSE.md) for more informat
 
 [link-travis]: https://travis-ci.org/voyula/php-design-patterns
 [link-styleci]: https://github.styleci.io/repos/150496340
-[link-coverage]: https://scrutinizer-ci.com/g/voyula/validate
-[link-scrutinizer]: https://scrutinizer-ci.com/g/voyula/validate
+[link-coverage]: https://scrutinizer-ci.com/g/voyula/php-design-patterns
+[link-scrutinizer]: https://scrutinizer-ci.com/g/voyula/php-design-patterns
 
 [link-version]: https://packagist.org/packages/voyula/validate
 [link-downloads]: https://packagist.org/packages/voyula/validate
