@@ -21,6 +21,7 @@
 | [Observer](Behavioral/Observer) | -
 | [Strategy](Behavioral/Strategy) | -
 | [NullObject](Behavioral/NullObject) | -
+| [TemplateMethod](Behavioral/TemplateMethod) | -
 
 ## Architectural
 | Pattern | Status
