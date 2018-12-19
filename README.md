@@ -9,35 +9,35 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![License][ico-license]][link-license]
 
-## Creational (GoF)
-| Pattern | Status
+## Creational
+| Pattern
 | --- | --- |
-| [Singleton](Creational/Singleton) | Anti-pattern
-| [Factory](Creational/Factory) | -
+| [Singleton](Creational/Singleton)
+| [Factory](Creational/Factory)
 
-## Structural (GoF)
-| Pattern | Status
+## Structural
+| Pattern
 | --- | --- |
-| [Adapter](Structural/Adapter) | -
+| [Adapter](Structural/Adapter)
 
-## Behavioral (GoF)
+## Behavioral
 | Pattern | Status
 | --- | --- |
-| [Observer](Behavioral/Observer) | -
-| [Strategy](Behavioral/Strategy) | -
-| [NullObject](Behavioral/NullObject) | -
-| [TemplateMethod](Behavioral/TemplateMethod) | -
+| [Observer](Behavioral/Observer)
+| [Strategy](Behavioral/Strategy)
+| [NullObject](Behavioral/NullObject)
+| [TemplateMethod](Behavioral/TemplateMethod)
 
 ## Architectural
 | Pattern | Status
 | --- | --- |
-| [MVC(Model–view–controller)](Architectural/MVC) | -
+| [MVC(Model–view–controller)](Architectural/MVC)
 
 ## Other
 | Pattern |
 | --- |
-| [Dependency Injection](Other/DependencyInjection) |
-| [Method Chaining](Other/MethodChaining) |
+| [Dependency Injection](Other/DependencyInjection)
+| [Method Chaining](Other/MethodChaining)
 
 ## ⚡ Installation
 
