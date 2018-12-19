@@ -13,6 +13,6 @@ class DelegationTest extends TestCase
     public function testDelegator(): void
     {
         $delegator = new Delegator;
-        $this->assertEquals('Mail sent: example@example.com', $delegator->send());
+        $this->assertEquals('Mail sent: example@example.com', $delegator->send('example@example.com'));
     }
 }
