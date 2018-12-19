@@ -15,6 +15,11 @@
 | [Singleton](Creational/Singleton) | Anti-pattern
 | [Factory](Creational/Factory) | -
 
+## Structural (GoF)
+| Pattern | Status
+| --- | --- |
+| [Adapter](Structural/Adapter) | -
+
 ## Behavioral (GoF)
 | Pattern | Status
 | --- | --- |
