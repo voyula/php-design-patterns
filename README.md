@@ -11,26 +11,26 @@
 
 ## Creational
 | Pattern
-| --- | --- |
+| --- |
 | [Singleton](Creational/Singleton)
 | [Factory](Creational/Factory)
 
 ## Structural
 | Pattern
-| --- | --- |
+| --- |
 | [Adapter](Structural/Adapter)
 
 ## Behavioral
 | Pattern | Status
-| --- | --- |
+| --- |
 | [Observer](Behavioral/Observer)
 | [Strategy](Behavioral/Strategy)
 | [NullObject](Behavioral/NullObject)
 | [TemplateMethod](Behavioral/TemplateMethod)
 
 ## Architectural
-| Pattern | Status
-| --- | --- |
+| Pattern
+| --- |
 | [MVC(Model–view–controller)](Architectural/MVC)
 
 ## Other
