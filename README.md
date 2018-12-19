@@ -21,7 +21,7 @@
 | [Adapter](Structural/Adapter)
 
 ## Behavioral
-| Pattern | Status
+| Pattern
 | --- |
 | [Observer](Behavioral/Observer)
 | [Strategy](Behavioral/Strategy)
