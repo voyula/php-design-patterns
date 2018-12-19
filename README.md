@@ -36,6 +36,7 @@
 ## Other
 | Pattern |
 | --- |
+| [Delegation](Other/Delegation)
 | [Dependency Injection](Other/DependencyInjection)
 | [Method Chaining](Other/MethodChaining)
 

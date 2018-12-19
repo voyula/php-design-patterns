@@ -11,6 +11,6 @@ abstract class Template
      */
     public function getSalary(): string
     {
-        return 'Salary: ' . $this->salary();
+        return 'Salary: ' . $this->salary;
     }
 }
