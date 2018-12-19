@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Behavioral\Strategy;
 
-class Context
+class Adapter
 {
     private $can_speak;
 
