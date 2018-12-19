@@ -24,6 +24,7 @@
 | Pattern
 | --- |
 | [Observer](Behavioral/Observer)
+| [Iterator](Behavioral/Iterator)
 | [Strategy](Behavioral/Strategy)
 | [NullObject](Behavioral/NullObject)
 | [TemplateMethod](Behavioral/TemplateMethod)
