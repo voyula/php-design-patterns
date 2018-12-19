@@ -2,6 +2,8 @@
 
 namespace DesignPatterns\Creational\Tests;
 
-final class SingletonTest
+use PHPUnit\Framework\TestCase;
+
+class SingletonTest extends TestCase
 {
 }

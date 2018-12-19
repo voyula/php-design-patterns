@@ -13,6 +13,7 @@
 | Pattern | Status
 | --- | --- |
 | [Singleton](Creational/Singleton) | Anti-pattern
+| [Factory](Creational/Factory) | -
 
 ## Behavioral (GoF)
 | Pattern | Status
