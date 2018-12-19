@@ -20,6 +20,7 @@
 | --- | --- |
 | [Observer](Behavioral/Observer) | -
 | [Strategy](Behavioral/Strategy) | -
+| [NullObject](Behavioral/NullObject) | -
 
 ## Architectural
 | Pattern | Status
