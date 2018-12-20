@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Behavioral\Interpreter;
 
-class MpgToKml implements ConverterInterface
+class Converter implements ConverterInterface
 {
     private $g2l;
     private $m2k;
