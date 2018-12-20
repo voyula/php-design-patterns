@@ -9,39 +9,31 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![License][ico-license]][link-license]
 
-## Creational
-| Pattern
-| --- |
-| [Prototype](Creational/Prototype)
-| [Singleton](Creational/Singleton)
-| [Factory](Creational/Factory)
+### Creational
+- [Prototype](Creational/Prototype)
+- [Singleton](Creational/Singleton)
+- [Factory](Creational/Factory)
 
-## Structural
+### Structural
 | Pattern
 | --- |
 | [Adapter](Structural/Adapter)
 | [Facade](Structural/Facade)
 
-## Behavioral
-| Pattern
-| --- |
-| [Observer](Behavioral/Observer)
-| [Iterator](Behavioral/Iterator)
-| [Strategy](Behavioral/Strategy)
-| [NullObject](Behavioral/NullObject)
-| [TemplateMethod](Behavioral/TemplateMethod)
+### Behavioral
+- [Observer](Behavioral/Observer)
+- [Iterator](Behavioral/Iterator)
+- [Strategy](Behavioral/Strategy)
+- [NullObject](Behavioral/NullObject)
+- [TemplateMethod](Behavioral/TemplateMethod)
 
-## Architectural
-| Pattern
-| --- |
-| [MVC(Model–view–controller)](Architectural/MVC)
+### Architectural
+- [MVC(Model–view–controller)](Architectural/MVC)
 
-## Other
-| Pattern |
-| --- |
-| [Delegation](Other/Delegation)
-| [Dependency Injection](Other/DependencyInjection)
-| [Method Chaining](Other/MethodChaining)
+### Other
+- [Delegation](Other/Delegation)
+- [Dependency Injection](Other/DependencyInjection)
+- [Method Chaining](Other/MethodChaining)
 
 ## ⚡ Installation
 
