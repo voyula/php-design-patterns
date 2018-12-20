@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\Factory;
 
-final class FlowerFactory
+class FlowerFactory
 {
     /**
      * @return Rose

@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\Singleton;
 
-final class Singleton
+class Singleton
 {
     /**
     * @var Singleton

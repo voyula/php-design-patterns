@@ -10,6 +10,7 @@
 [![License][ico-license]][link-license]
 
 #### Creational
+- [Builder](Creational/Builder)
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
 - [Factory](Creational/Factory)
