@@ -25,6 +25,7 @@
 
 ##### Structural
 - [Adapter](Structural/Adapter)
+- [Bridge](Structural/Bridge)
 - [Composite](Structural/Composite)
 - [Facade](Structural/Facade)
 - [Proxy](Structural/Proxy)
