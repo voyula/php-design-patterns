@@ -13,6 +13,7 @@
 - [Command](Behavioral/Command)
 - [Interpreter](Behavioral/Interpreter)
 - [Iterator](Behavioral/Iterator)
+- [Memento](Behavioral/Memento)
 - [Observer](Behavioral/Observer)
 - [Strategy](Behavioral/Strategy)
 - [Template Method](Behavioral/TemplateMethod)
