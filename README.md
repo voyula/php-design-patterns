@@ -28,6 +28,7 @@
 - [Bridge](Structural/Bridge)
 - [Composite](Structural/Composite)
 - [Facade](Structural/Facade)
+- [Flyweight](Structural/Flyweight)
 - [Proxy](Structural/Proxy)
 
 ##### Architectural
