@@ -18,6 +18,7 @@
 #### Structural
 - [Adapter](Structural/Adapter)
 - [Composite](Structural/Composite)
+- [Proxy](Structural/Proxy)
 - [Facade](Structural/Facade)
 
 #### Behavioral
