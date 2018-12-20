@@ -11,22 +11,22 @@
 
 #### Creational
 - [Builder](Creational/Builder)
+- [Factory](Creational/Factory)
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
-- [Factory](Creational/Factory)
 
 #### Structural
 - [Adapter](Structural/Adapter)
 - [Composite](Structural/Composite)
-- [Proxy](Structural/Proxy)
 - [Facade](Structural/Facade)
+- [Proxy](Structural/Proxy)
 
 #### Behavioral
 - [Command](Behavioral/Command)
-- [Observer](Behavioral/Observer)
 - [Iterator](Behavioral/Iterator)
+- [Observer](Behavioral/Observer)
 - [Strategy](Behavioral/Strategy)
-- [TemplateMethod](Behavioral/TemplateMethod)
+- [Template Method](Behavioral/TemplateMethod)
 
 #### Architectural
 - [MVC(Model–view–controller)](Architectural/MVC)
@@ -34,8 +34,8 @@
 #### Other
 - [Delegation](Other/Delegation)
 - [Dependency Injection](Other/DependencyInjection)
-- [NullObject](Behavioral/NullObject)
 - [Method Chaining](Other/MethodChaining)
+- [Null Object](Behavioral/NullObject)
 
 ## ⚡ Installation
 
