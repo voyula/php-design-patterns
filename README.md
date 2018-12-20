@@ -11,6 +11,7 @@
 
 ##### Behavioral
 - [Command](Behavioral/Command)
+- [Interpreter](Behavioral/Interpreter)
 - [Iterator](Behavioral/Iterator)
 - [Observer](Behavioral/Observer)
 - [Strategy](Behavioral/Strategy)
@@ -35,7 +36,7 @@
 - [Delegation](Other/Delegation)
 - [Dependency Injection](Other/DependencyInjection)
 - [Method Chaining](Other/MethodChaining)
-- [Null Object](Behavioral/NullObject)
+- [Null Object](Other/NullObject)
 
 ## ⚡ Installation
 
