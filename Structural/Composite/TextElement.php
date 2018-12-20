@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Structural\Composite;
 
-class InputElement implements RenderableInterface
+class TextElement implements RenderableInterface
 {
     private $text;
 
