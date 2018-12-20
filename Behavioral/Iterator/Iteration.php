@@ -4,7 +4,7 @@ namespace DesignPatterns\Behavioral\NullObject;
 
 use Iterator;
 
-class MyIterator implements Iterator
+class Iteration implements Iterator
 {
     private $position = 0;
     private $array = [
