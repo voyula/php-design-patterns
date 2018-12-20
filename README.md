@@ -9,28 +9,26 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![License][ico-license]][link-license]
 
-### Creational
+#### Creational
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
 - [Factory](Creational/Factory)
 
-### Structural
-| Pattern
-| --- |
-| [Adapter](Structural/Adapter)
-| [Facade](Structural/Facade)
+#### Structural
+- [Adapter](Structural/Adapter)
+- [Facade](Structural/Facade)
 
-### Behavioral
+#### Behavioral
 - [Observer](Behavioral/Observer)
 - [Iterator](Behavioral/Iterator)
 - [Strategy](Behavioral/Strategy)
 - [NullObject](Behavioral/NullObject)
 - [TemplateMethod](Behavioral/TemplateMethod)
 
-### Architectural
+#### Architectural
 - [MVC(Model–view–controller)](Architectural/MVC)
 
-### Other
+#### Other
 - [Delegation](Other/Delegation)
 - [Dependency Injection](Other/DependencyInjection)
 - [Method Chaining](Other/MethodChaining)
