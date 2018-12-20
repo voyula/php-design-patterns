@@ -25,7 +25,6 @@
 - [Observer](Behavioral/Observer)
 - [Iterator](Behavioral/Iterator)
 - [Strategy](Behavioral/Strategy)
-- [NullObject](Behavioral/NullObject)
 - [TemplateMethod](Behavioral/TemplateMethod)
 
 #### Architectural
@@ -34,6 +33,7 @@
 #### Other
 - [Delegation](Other/Delegation)
 - [Dependency Injection](Other/DependencyInjection)
+- [NullObject](Behavioral/NullObject)
 - [Method Chaining](Other/MethodChaining)
 
 ## ⚡ Installation
