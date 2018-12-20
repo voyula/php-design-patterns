@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Structural\Proxy;
 
-class CachingDownloader implements DownloaderInterface
+class DownloaderProxy implements DownloaderInterface
 {
     private $downloader;
 
