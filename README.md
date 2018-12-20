@@ -19,6 +19,7 @@
 | Pattern
 | --- |
 | [Adapter](Structural/Adapter)
+| [Facade](Structural/Facade)
 
 ## Behavioral
 | Pattern
