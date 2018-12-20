@@ -5,7 +5,7 @@ namespace DesignPatterns\Structural\Facade;
 class Dog
 {
     /**
-     * @return void
+     * @return string
      */
     public function feed(): string
     {
