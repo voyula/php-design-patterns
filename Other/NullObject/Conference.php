@@ -14,10 +14,10 @@ class Conference
      *
      * @return SpeakerInterface
      */
-    public function prepareSpeaker($type): SpeakerInterface
+    public function prepareSpeaker(string $type): SpeakerInterface
     {
-        if (in_array($type, ['Human'])) {
-            return new $type;
+        if ($type === 'Human') {
+            return new Human;
         }
 
         return new NullObject;

@@ -4,5 +4,5 @@ namespace DesignPatterns\Other\NullObject;
 
 interface SpeakerInterface
 {
-    public function speak($speech);
+    public function speak(string $speech);
 }
