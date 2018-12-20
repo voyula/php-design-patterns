@@ -2,9 +2,9 @@
 
 namespace DesignPatterns\Architectural\MVC;
 
-final class View
+class View
 {
-    public function dump($data)
+    public function dump($data): void
     {
         var_dump($data);
     }

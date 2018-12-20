@@ -11,12 +11,12 @@ class DoctorBuilder implements PersonBuilderInterface
         $this->person = new Person;
     }
 
-    public function setGender()
+    public function setGender(): void
     {
         $this->person->gender = Person::GENDER_FEMALE;
     }
 
-    public function getResult()
+    public function getResult(): Person
     {
         return $this->person;
     }

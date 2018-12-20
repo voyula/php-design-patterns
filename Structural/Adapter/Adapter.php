@@ -4,6 +4,9 @@ namespace DesignPatterns\Structural\Adapter;
 
 class Adapter
 {
+    /**
+     * @var Cat $cat
+     */
     private $cat;
 
     public function __construct(Cat $cat)

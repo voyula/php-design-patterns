@@ -2,9 +2,12 @@
 
 namespace DesignPatterns\Architectural\MVC;
 
-final class Model
+class Model
 {
-    public function username()
+    /**
+     * @return string
+     */
+    public function username(): string
     {
         return 'Jack';
     }

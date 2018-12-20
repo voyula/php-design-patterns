@@ -4,12 +4,18 @@ namespace DesignPatterns\Behavioral\Command;
 
 class Light
 {
-    public function on()
+    /**
+     * @return string
+     */
+    public function on(): string
     {
         return 'on';
     }
 
-    public function off()
+    /**
+     * @return string
+     */
+    public function off(): string
     {
         return 'off';
     }

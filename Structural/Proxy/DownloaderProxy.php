@@ -4,15 +4,28 @@ namespace DesignPatterns\Structural\Proxy;
 
 class DownloaderProxy implements DownloaderInterface
 {
+    /**
+     * @var Downloader
+     */
     private $downloader;
-
+    /**
+     * @var string[]
+     */
     private $cache = [];
 
+    /**
+     * @param Downloader $downloader
+     */
     public function __construct(Downloader $downloader)
     {
         $this->downloader = $downloader;
     }
 
+    /**
+     * @param string $url
+     *
+     * @return string
+     */
     public function download(string $url): string
     {
         if (!isset($this->cache[$url])) {

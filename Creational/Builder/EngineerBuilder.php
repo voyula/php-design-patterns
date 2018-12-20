@@ -11,12 +11,12 @@ class EngineerBuilder implements PersonBuilderInterface
         $this->person = new Person;
     }
 
-    public function setGender()
+    public function setGender(): void
     {
         $this->person->gender = Person::GENDER_MALE;
     }
 
-    public function getResult()
+    public function getResult(): Person
     {
         return $this->person;
     }

@@ -4,8 +4,14 @@ namespace DesignPatterns\Structural\Composite;
 
 class Form implements RenderableInterface
 {
+    /**
+     * @var RenderableInterface[]
+     */
     private $elements;
 
+    /**
+     * @return string
+     */
     public function render(): string
     {
         $formCode = '<form>';
@@ -19,7 +25,12 @@ class Form implements RenderableInterface
         return $formCode;
     }
 
-    public function addElement(RenderableInterface $element)
+    /**
+     * @param RenderableInterface $element
+     *
+     * @return void
+     */
+    public function addElement(RenderableInterface $element): void
     {
         $this->elements[] = $element;
     }

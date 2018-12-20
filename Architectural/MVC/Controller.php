@@ -2,9 +2,12 @@
 
 namespace DesignPatterns\Architectural\MVC;
 
-final class Controller
+class Controller
 {
-    public function hello()
+    /**
+     * @return void
+     */
+    public function hello(): void
     {
         $model = new Model;
         $view = new View;
