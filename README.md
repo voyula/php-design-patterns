@@ -12,6 +12,7 @@
 ## Creational
 | Pattern
 | --- |
+| [Prototype](Creational/Prototype)
 | [Singleton](Creational/Singleton)
 | [Factory](Creational/Factory)
 
