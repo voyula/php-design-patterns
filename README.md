@@ -22,6 +22,7 @@
 - [Facade](Structural/Facade)
 
 #### Behavioral
+- [Command](Behavioral/Command)
 - [Observer](Behavioral/Observer)
 - [Iterator](Behavioral/Iterator)
 - [Strategy](Behavioral/Strategy)
