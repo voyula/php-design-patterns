@@ -18,6 +18,6 @@ class NullObjectTest extends TestCase
         $this->assertSame('Hello! I am a human.', $speaker->speak('Hello! I am a human.'));
 
         $speaker = $conference->prepareSpeaker('Dog');
-        $this->assertNull('Hello! I am a dog.', $speaker->speak('Hello! I am a dog.'));
+        $this->assertNull($speaker->speak('Hello! I am a dog.'));
     }
 }
