@@ -16,6 +16,7 @@
 - [Observer](Behavioral/Observer)
 - [Strategy](Behavioral/Strategy)
 - [Template Method](Behavioral/TemplateMethod)
+- [Visitor](Behavioral/Visitor)
 
 ##### Creational
 - [Builder](Creational/Builder)
