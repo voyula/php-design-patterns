@@ -16,6 +16,7 @@
 - [Iterator](Behavioral/Iterator)
 - [Mediator](Behavioral/Mediator)
 - [Memento](Behavioral/Memento)
+- [Null Object](Other/NullObject)
 - [Observer](Behavioral/Observer)
 - [State](Behavioral/State)
 - [Strategy](Behavioral/Strategy)
@@ -25,7 +26,9 @@
 ##### Creational
 - [Abstract Factory](Creational/AbstractFactory)
 - [Builder](Creational/Builder)
+- [Dependency Injection](Creational/DependencyInjection)
 - [Factory](Creational/Factory)
+- [Multiton](Creational/Multiton)
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
 
@@ -35,6 +38,7 @@
 - [Composite](Structural/Composite)
 - [Decorator](Structural/Decorator)
 - [Facade](Structural/Facade)
+- [FluentInterface](Structural/FluentInterface)
 - [Flyweight](Structural/Flyweight)
 - [Proxy](Structural/Proxy)
 
@@ -43,11 +47,7 @@
 
 ##### Other
 - [Delegation](Other/Delegation)
-- [Dependency Injection](Other/DependencyInjection)
-- [FluentInterface](Other/FluentInterface)
 - [Method Chaining](Other/MethodChaining)
-- [Multiton](Other/Multiton)
-- [Null Object](Other/NullObject)
 
 ## ⚡ Installation
 

@@ -1,16 +1,16 @@
 <?php
 
-namespace DesignPatterns\Other\DependencyInjection\Tests;
+namespace DesignPatterns\Creational\DependencyInjection\Tests;
 
 use PHPUnit\Framework\TestCase;
-use DesignPatterns\Other\DependencyInjection\DependencyInjection;
+use DesignPatterns\Creational\DependencyInjection\DependencyInjection;
 use DateTime;
 use DateTimeZone;
 
 class DependencyInjectionTest extends TestCase
 {
     /**
-     * @var \DesignPatterns\Other\DependencyInjection\DependencyInjection
+     * @var \DesignPatterns\Creational\DependencyInjection\DependencyInjection
      */
     private $dependencyInjection;
 

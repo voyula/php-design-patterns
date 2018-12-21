@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Other\NullObject;
+namespace DesignPatterns\Behavioral\NullObject;
 
 class Human implements SpeakerInterface
 {

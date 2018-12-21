@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Other\FluentInterface;
+namespace DesignPatterns\Structural\FluentInterface;
 
 class Employee
 {

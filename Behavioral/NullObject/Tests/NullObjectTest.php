@@ -1,9 +1,9 @@
 <?php
 
-namespace DesignPatterns\Other\NullObject\Tests;
+namespace DesignPatterns\Behavioral\NullObject\Tests;
 
 use PHPUnit\Framework\TestCase;
-use DesignPatterns\Other\NullObject\Conference;
+use DesignPatterns\Behavioral\NullObject\Conference;
 
 class NullObjectTest extends TestCase
 {

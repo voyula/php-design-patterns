@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Other\DependencyInjection;
+namespace DesignPatterns\Creational\DependencyInjection;
 
 use DateTime;
 
