@@ -27,7 +27,7 @@
 - [Abstract Factory](Creational/AbstractFactory)
 - [Builder](Creational/Builder)
 - [Dependency Injection](Creational/DependencyInjection)
-- [FactoryMethod](Creational/FactoryMethod)
+- [Factory Method](Creational/FactoryMethod)
 - [Multiton](Creational/Multiton)
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
