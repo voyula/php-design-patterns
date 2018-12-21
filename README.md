@@ -46,6 +46,7 @@
 - [Dependency Injection](Other/DependencyInjection)
 - [FluentInterface](Other/FluentInterface)
 - [Method Chaining](Other/MethodChaining)
+- [Multiton](Other/Multiton)
 - [Null Object](Other/NullObject)
 
 ## ⚡ Installation
