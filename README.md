@@ -15,6 +15,7 @@
 - [Iterator](Behavioral/Iterator)
 - [Memento](Behavioral/Memento)
 - [Observer](Behavioral/Observer)
+- [State](Behavioral/State)
 - [Strategy](Behavioral/Strategy)
 - [Template Method](Behavioral/TemplateMethod)
 - [Visitor](Behavioral/Visitor)
