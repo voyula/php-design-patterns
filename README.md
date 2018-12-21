@@ -38,7 +38,7 @@
 - [Composite](Structural/Composite)
 - [Decorator](Structural/Decorator)
 - [Facade](Structural/Facade)
-- [FluentInterface](Structural/FluentInterface)
+- [Fluent Interface](Structural/FluentInterface)
 - [Flyweight](Structural/Flyweight)
 - [Proxy](Structural/Proxy)
 
