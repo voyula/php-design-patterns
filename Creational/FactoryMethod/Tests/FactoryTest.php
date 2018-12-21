@@ -1,10 +1,10 @@
 <?php
 
-namespace DesignPatterns\Creational\Factory\Tests;
+namespace DesignPatterns\Creational\FactoryMethod\Tests;
 
 use PHPUnit\Framework\TestCase;
-use DesignPatterns\Creational\Factory\FlowerFactory;
-use DesignPatterns\Creational\Factory\Rose;
+use DesignPatterns\Creational\FactoryMethod\FlowerFactory;
+use DesignPatterns\Creational\FactoryMethod\Rose;
 
 class FactoryTest extends TestCase
 {

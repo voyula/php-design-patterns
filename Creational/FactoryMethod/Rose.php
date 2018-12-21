@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Creational\Factory;
+namespace DesignPatterns\Creational\FactoryMethod;
 
 class Rose
 {
