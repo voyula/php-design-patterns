@@ -43,6 +43,7 @@
 ##### Other
 - [Delegation](Other/Delegation)
 - [Dependency Injection](Other/DependencyInjection)
+- [FluentInterface](Other/FluentInterface)
 - [Method Chaining](Other/MethodChaining)
 - [Null Object](Other/NullObject)
 
