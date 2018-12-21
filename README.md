@@ -10,6 +10,7 @@
 [![License][ico-license]][link-license]
 
 ##### Behavioral
+- [Chain Of Responsibility](Behavioral/ChainOfResponsibility)
 - [Command](Behavioral/Command)
 - [Interpreter](Behavioral/Interpreter)
 - [Iterator](Behavioral/Iterator)
