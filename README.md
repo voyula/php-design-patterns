@@ -46,7 +46,7 @@
 ##### Architectural
 - [MVC(Model–view–controller)](Architectural/MVC)
 
-##### Other
+##### More
 - [Delegation](Other/Delegation)
 - [Method Chaining](Other/MethodChaining)
 
