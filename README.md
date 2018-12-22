@@ -9,7 +9,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![License][ico-license]][link-license]
 
-##### Behavioral
+##### [Behavioral](Behavioral)
 - [Chain Of Responsibility](Behavioral/ChainOfResponsibility)
 - [Command](Behavioral/Command)
 - [Interpreter](Behavioral/Interpreter)
@@ -23,7 +23,7 @@
 - [Template Method](Behavioral/TemplateMethod)
 - [Visitor](Behavioral/Visitor)
 
-##### Creational
+##### [Creational](Creational)
 - [Abstract Factory](Creational/AbstractFactory)
 - [Builder](Creational/Builder)
 - [Dependency Injection](Creational/DependencyInjection)
@@ -33,7 +33,7 @@
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
 
-##### Structural
+##### [Structural](Structural)
 - [Adapter](Structural/Adapter)
 - [Bridge](Structural/Bridge)
 - [Composite](Structural/Composite)
@@ -43,10 +43,10 @@
 - [Flyweight](Structural/Flyweight)
 - [Proxy](Structural/Proxy)
 
-##### Architectural
+##### [Architectural](Architectural)
 - [MVC(Model–view–controller)](Architectural/MVC)
 
-##### More
+##### [More](Other)
 - [Delegation](Other/Delegation)
 - [Method Chaining](Other/MethodChaining)
 
