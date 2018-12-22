@@ -29,6 +29,7 @@
 - [Dependency Injection](Creational/DependencyInjection)
 - [Factory Method](Creational/FactoryMethod)
 - [Multiton](Creational/Multiton)
+- [Object Pool](Creational/ObjectPool)
 - [Prototype](Creational/Prototype)
 - [Singleton](Creational/Singleton)
 
