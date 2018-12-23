@@ -2,5 +2,5 @@
 
 | Pattern |
 | --- |
-| [Dependency Injection](DependencyInjection) |
+| [Delegation](Delegation) |
 | [Method Chaining](MethodChaining) |
