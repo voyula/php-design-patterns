@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>C:/Users/User/Desktop/php-design-patterns/Structural/Proxy</OriginalElement>
+  <nodes>
+    <node x="38.0" y="202.0">\DesignPatterns\Structural\Proxy\DownloaderProxy</node>
+    <node x="32.5" y="0.0">\DesignPatterns\Structural\Proxy\DownloaderInterface</node>
+    <node x="0.0" y="101.0">\DesignPatterns\Structural\Proxy\Downloader</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\DesignPatterns\Structural\Proxy\DownloaderProxy" target="\DesignPatterns\Structural\Proxy\Downloader">
+      <point x="-32.75" y="-25.5" />
+      <point x="70.75" y="177.0" />
+      <point x="65.5" y="177.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="\DesignPatterns\Structural\Proxy\DownloaderProxy" target="\DesignPatterns\Structural\Proxy\DownloaderInterface">
+      <point x="32.75" y="-25.5" />
+      <point x="136.25" y="177.0" />
+      <point x="141.5" y="177.0" />
+      <point x="141.5" y="76.0" />
+      <point x="139.0" y="76.0" />
+      <point x="35.5" y="25.5" />
+    </edge>
+    <edge source="\DesignPatterns\Structural\Proxy\Downloader" target="\DesignPatterns\Structural\Proxy\DownloaderInterface">
+      <point x="0.0" y="-25.5" />
+      <point x="65.5" y="76.0" />
+      <point x="68.0" y="76.0" />
+      <point x="-35.5" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hıerarchıc Group" zoom="1.0" x="120.5" y="91.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>prıvate</VISIBILITY>
+</Diagram>
+

@@ -13,6 +13,6 @@ class Downloader implements DownloaderInterface
     {
         echo "Downloading a file from the Internet.\n";
 
-        return $result;
+        return 'Hello';
     }
 }
