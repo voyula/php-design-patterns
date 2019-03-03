@@ -4,9 +4,9 @@ namespace DesignPatterns\Structural\FluentInterface;
 
 class Employee
 {
-    public $name;
-    public $surName;
-    public $salary;
+    private $name;
+    private $surname;
+    private $salary;
 
     public function setName($name)
     {
@@ -17,7 +17,7 @@ class Employee
 
     public function setSurname($surname)
     {
-        $this->surName = $surname;
+        $this->surname = $surname;
 
         return $this;
     }
@@ -32,7 +32,7 @@ class Employee
     public function __toString()
     {
         $employeeInfo = 'Name: ' . $this->name . PHP_EOL;
-        $employeeInfo .= 'Surname: ' . $this->surName . PHP_EOL;
+        $employeeInfo .= 'Surname: ' . $this->surname . PHP_EOL;
         $employeeInfo .= 'Salary: ' . $this->salary . PHP_EOL;
 
         return $employeeInfo;
